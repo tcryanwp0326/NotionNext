@@ -1,16 +1,16 @@
 {
-  "name": "notion-next",
-  "version": "4.8.4",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "name": "臺中市  阿良",
+  "version": "",
+  "homepage": "",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "type": "",
+    "url": ""
   },
   "author": {
     "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "email": "",
+    "url": ""
   },
   "scripts": {
     "dev": "next dev",
@@ -72,7 +72,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "",
+    "email": ""
   }
 }
