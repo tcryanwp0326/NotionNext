@@ -1,16 +1,16 @@
 {
-  "name": "臺中市  阿良",
-  "version": "",
-  "homepage": "",
+  "name": "notion-next",
+  "version": "4.8.4",
+  "homepage": "https://github.com/tangly1024/NotionNext.git",
   "license": "MIT",
   "repository": {
-    "type": "網站",
-    "url": "https://news.tcrya.tcryan.dpdns.org/"
+    "type": "git",
+    "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
     "name": "tangly",
-    "email": "https://news.tcrya.tcryan.dpdns.org/",
-    "url": "https://news.tcrya.tcryan.dpdns.org/"
+    "email": "mail@tangly1024.com",
+    "url": "http://tangly1024.com"
   },
   "scripts": {
     "dev": "next dev",
@@ -72,7 +72,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://news.tcrya.tcryan.dpdns.org/",
-    "email": "https://news.tcrya.tcryan.dpdns.org/"
+    "url": "https://github.com/tangly/NotionNext/issues",
+    "email": "tlyong1992@hotmail.com"
   }
 }
