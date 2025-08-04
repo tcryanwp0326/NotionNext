@@ -4,13 +4,13 @@
   "homepage": "",
   "license": "MIT",
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "網站",
+    "url": "https://news.tcrya.tcryan.dpdns.org/"
   },
   "author": {
     "name": "tangly",
-    "email": "",
-    "url": ""
+    "email": "https://news.tcrya.tcryan.dpdns.org/",
+    "url": "https://news.tcrya.tcryan.dpdns.org/"
   },
   "scripts": {
     "dev": "next dev",
@@ -72,7 +72,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "",
-    "email": ""
+    "url": "https://news.tcrya.tcryan.dpdns.org/",
+    "email": "https://news.tcrya.tcryan.dpdns.org/"
   }
 }
